@@ -16,19 +16,9 @@ description: Homeless Hub Fund 6 Proposal
 
 Creative Commons Attribution
 
-
-
-[Problem 3]()
-
-[Describe Your Solution to the Problem 3]()
-
-[Relevant experience 3]()
-
-### 
+## Ideascale link
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
-
-
 
 ## Problem - 140 characters
 
@@ -48,7 +38,7 @@ This proposal will initiate a 6-month experiment in communication and understand
 
 We have included money for interpretation where needed, and plan to use and pay people from within the community itself as interpreters.
 
-Background
+### Background
 
 Homeless people in developed countries like the United Kingdom form a distinct community. This community is a diverse mix of people from different social backgrounds, cultures, migration status and languages.
 
@@ -58,19 +48,19 @@ This perspective could enrich the Cardano community; and Cardano could empower h
 
 The first step in empowering any community to change their lives is to create a space where people can develop and crystallise their OWN understanding of the problem. This might be called community “problem-sensing”.
 
-Problem Sensing Workshops
+### Problem Sensing Workshops
 
 A series of workshops will be held with migrant homeless communities in Manchester, UK.
 
 These workshops will explore questions of value, worth and contribution.
 
-Building a community hub
+### Building a community hub
 
 These initial workshops will build confidence and shared understanding to enable a group of homeless people to lead a community hub.
 
 This hub would have its roots in the homeless community but can also engage others locally. We imagine it leading to an event where homeless people can tell non-homeless locals about blockchain technology and its implications for all of our empowerment.
 
-References
+### References
 
-https://www.crisis.org.uk/media/241452/a\_home\_for\_all\_understanding\_migrant\_homelessness\_in\_great\_britain\_2019.pdf
+{% embed url="https://www.crisis.org.uk/media/241452/a\_home\_for\_all\_understanding\_migrant\_homelessness\_in\_great\_britain\_2019.pdf" caption="A home for all: Understanding migrant homelessness in Great Britain" %}
 
