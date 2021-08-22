@@ -1,4 +1,8 @@
-# Untitled
+---
+description: Homeless Hub Fund 6 Proposal
+---
+
+# F6: Scale-UP Cardano's Community Hubs
 
 | Title | F6: Scale-UP Cardano's Community Hubs |
 | :--- | :--- |
@@ -12,6 +16,8 @@
 
 Creative Commons Attribution
 
+
+
 [Problem 3]()
 
 [Describe Your Solution to the Problem 3]()
@@ -20,9 +26,9 @@ Creative Commons Attribution
 
 ### 
 
-## 
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
 
-## https://cardano.ideascale.com/a/campaign-home/26118
+
 
 ## Problem - 140 characters
 
