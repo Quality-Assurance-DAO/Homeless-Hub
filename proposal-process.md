@@ -10,6 +10,14 @@ description: >-
 
 ## Comments
 
+![](.gitbook/assets/2021-08-24-2-.png)
+
+#### Discord Context
+
+{% embed url="https://discord.com/channels/832894680290951179/864191534709342248/879166320573304874" %}
+
+
+
 ### Matthias Sieber \(@matthiasksieber\) kudos icon + 2 days ago
 
 ![Matthias Sieber \(@matthiasksieber\) kudos icon + 2 days ago](.gitbook/assets/2021-08-24.png)
