@@ -22,7 +22,7 @@ description: >-
 
 Hi Stephen, I appreciate for all you do and the homeless population is dear to my heart as well. I have been working for the last 14 months with people facing housing insecurities and housing service providers as the lead engineer at a company to assist in bringing people into suitable shared housing. I attend many civic tech conferences and try to learn as much as possible to better serve the ones in need. Once in a while I compile my findings \(and critique of existing systems\) in a paper - that generally no journal is interested in publishing. With that out of the way - and acknowledging that homelessness in Manchester probably looks different than in Los Angeles - I must ask: What exactly is the outcome going to look like? I understand that a homeless hub as a center to teach each other about blockchain and Cardano is one of the goals, but I am wondering how you would incentivize participation in the first place. Unfortunately I don't have really specific questions to make this proposal stronger, but I support the sentiment of making our Cardano tent bigger.
 
-### Stephen Response
+### Stephen Response to Matthias 
 
 ![](.gitbook/assets/2021-08-24-3-.png)
 
