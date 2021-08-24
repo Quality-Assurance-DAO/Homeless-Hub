@@ -1,3 +1,9 @@
+---
+description: >-
+  This section documents community communications during the Fund 6 Proposal
+  Process
+---
+
 # Proposal Process
 
 ## August 22nd to 26th - Submission of Proposal 
