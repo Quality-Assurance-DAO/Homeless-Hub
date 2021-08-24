@@ -2,5 +2,5 @@
 
 * [Homeless-Hub](README.md)
 * [F6: Scale-UP Cardano's Community Hubs](untitled.md)
-* [Proposal Process](proposal-process.md)
+* [Fund 6 Proposal Process](proposal-process.md)
 
