@@ -12,3 +12,11 @@ Hi Stephen, I appreciate for all you do and the homeless population is dear to m
 
 
 
+### Richard Nugent \(@richardnugent\) kudos icon + 17 hours ago
+
+![Richard Nugent \(@richardnugent\) kudos icon + 17 hours ago](.gitbook/assets/2021-08-24-1-.png)
+
+Hi This looks like a sound proposal. As I understand it the core goal is communication. This, in and of itself is vital to social cohesion. If we as societies fail to communicate we will continue to fracture more and more. Certainly your project will help decrease fracturing and create homeless to non-homeless communication. This can only be good. In particular if this scheme can help those who are not welcoming to immigrant community members to be more welcoming it will have succeeded. Are you thinking of ideation sessions to address problems of homeless people using Cardano? E.g. A tool to do X using the blockchain which has the \[desired\] outcome of Y for homeless people? Is that it? I wish you every success with this proposal.
+
+
+
