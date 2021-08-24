@@ -58,5 +58,31 @@ Hi This looks like a sound proposal. As I understand it the core goal is communi
 
 ![](.gitbook/assets/2021-08-24-4-.png)
 
+You kudos icon + moments ago Idea Submitter
 
+Hi Richard,
+
+Thank you so much for your good wishes
+
+In essence yes, these sessions will offer time and space for ideation.
+
+Except \(as per my response to Matthias above\) there will be no preconceived notion of what the outcome will be for this marginalised group.
+
+That will be up for grabs by the group themselves. Something they will decide. So they may decide to:
+
+* make a tool using blockchain or Digital-ID to solve a problem that impacts homeless people or
+* they may decide to run a hackathon to invite others to build something for them
+* they may prefer to communicate with the wider, non-homeless community in Manchester about blockchain tech and its impact
+* or they may want to talk primarily to Cardano, to Catalyst about a toolkit to enable the homeless to become involved in governance
+* or prepare their own proposal for Fund 7
+
+A lot of possibilities may emerge, and we will be flexible, agile, and responsive to whatever arises.
+
+We also wish to emphasise the strengths of homeless people not only focus on the problems. One reason this proposal has been placed in this challenge is that it provides for people to "take part in their own language and with their own cultural understanding".
+
+Something that people who have not been homeless may not realise is that homeless people do have a culture of their own. A shared cultural understanding that is different from the mainstream; and although that shared culture is something they pay a very high price to acquire, it does give strengths as well as problems.
+
+All the Best
+
+Stephen
 
