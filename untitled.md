@@ -18,7 +18,7 @@ Creative Commons Attribution
 
 ## Ideascale link
 
-{% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
+{% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
 
 ## Problem - 140 characters
 
