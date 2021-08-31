@@ -86,3 +86,23 @@ All the Best
 
 Stephen
 
+
+
+## August 31st 2021
+
+![](.gitbook/assets/2021-08-31-2-.png)
+
+### stephen.rowan — Today at 12:03 PM
+
+Hi everyone, I would like to request a discussion thread for mine and @CallyFromAuron ‘s F6: Scale-UP Cardano's Community Hubs Proposal – “Homeless Hub” \( [https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088](https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088)\). We have added some detail on our proposal team and what we hope the project will achieve. Would great to hear people’s thoughts.
+
+#### Discord context
+
+{% embed url="https://discord.com/channels/756943420660121600/878012053330202695/882219082563334194" %}
+
+
+
+
+
+
+
