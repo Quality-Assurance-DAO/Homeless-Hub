@@ -86,8 +86,6 @@ All the Best
 
 Stephen
 
-
-
 ## August 31st 2021
 
 ![](.gitbook/assets/2021-08-31-2-.png)
