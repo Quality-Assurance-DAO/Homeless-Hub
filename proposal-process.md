@@ -86,7 +86,13 @@ All the Best
 
 Stephen
 
-## August 31st 2021
+## Monday, August 30th 2021
+
+{% hint style="info" %}
+Formally added Vanessa Cardui as co-proposer on Ideascale.
+{% endhint %}
+
+## Tuesday, August 31st 2021
 
 ![](.gitbook/assets/2021-08-31-2-.png)
 
