@@ -6,6 +6,12 @@ description: >-
 
 # Fund 6 Proposal Process
 
+## Wednesday, August 11th to 22nd 2021 - Ideation of Proposal
+
+Vanessa and Stephen began discussing the idea for the Homeless Hub proposal.
+
+Subsequent emails discussed Project concept and Budget.
+
 ## August 22nd to 26th - Submission of Proposal 
 
 ## Comments
