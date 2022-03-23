@@ -10,6 +10,6 @@
 
 * [Page 1](engaging-participants-dec-2021-feb-2022/page-1.md)
 
-## Group 1
+## Sessions: Salford Emmaus
 
-* [Page 2](group-1/page-2.md)
+* [Page 2](sessions-salford-emmaus/page-2.md)
