@@ -12,4 +12,4 @@
 
 ## Sessions: Salford Emmaus
 
-* [Page 2](sessions-salford-emmaus/page-2.md)
+* [About Salford Emmaus](sessions-salford-emmaus/about-salford-emmaus.md)
