@@ -20,6 +20,7 @@
 * [Session 1, 28th Feb 2022](sessions-salford-emmaus/session-1-28th-feb-2022.md)
 * [Session 2, 7th March 2022](sessions-salford-emmaus/session-2-7th-march-2022.md)
 * [Session 3, 14th March 2022](sessions-salford-emmaus/session-3-14th-march-2022.md)
+* [Barriers and wariness from other organisations](sessions-salford-emmaus/barriers-and-wariness-from-other-organisations.md)
 * [Session 4, 21st March 2022](sessions-salford-emmaus/session-4-21st-march-2022.md)
 * [Session 5, 28th March 2022](sessions-salford-emmaus/session-5-28th-march-2022.md)
 * [Session 6, 4th April 2022](sessions-salford-emmaus/session-6-4th-april-2022.md)
