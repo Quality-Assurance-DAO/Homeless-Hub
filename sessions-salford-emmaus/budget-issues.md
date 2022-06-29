@@ -20,7 +20,9 @@ The proposal originally planned to work with 10 participants and 3 organisations
 
 But I am finding that 10 sessions will not be enough to really engage this group, cover everything we want to, and produce a good final output; so I want to increase it to 15 sessions. We had some money in the budget for paying extra to participants to also function as translators; but as it turns out, everyone taking part at Emmaus has English as a first language, so that can be reallocated towards increasing the number of sessions.
 
-I also think we can adjust how much we spend on the project's final output, and reallocate some of that budget to the participants' stipend. We have mentioned [arte povera](https://en.wikipedia.org/wiki/Arte\_Povera) in sessions, and have talked about how the idea of making art with whatever materials you have to hand - for example, artists like [James Castle](https://jamescastle.com/) - is something that homeless and poor artists often do anyway. So I will suggest to the group that we take that as a creative decision, and aim to use scrap materials in whatever we produce.
+I also think we can adjust how much we spend on the project's final output, and reallocate some of that budget to the participants' stipend. We have mentioned [arte povera](https://en.wikipedia.org/wiki/Arte\_Povera) in sessions, and have talked about how the idea of making art with whatever materials you have to hand - for example, artists like [James Castle](https://jamescastle.com/) - is something that homeless and poor artists often do anyway. So I will suggest to the group that we take that as a creative decision, and aim to use scrap materials in whatever we produce. We are not sure at this stage what the project's final output will be - but the budget situation would have made a big, physical public event impossible anyway, even without any changes. So we are looking now at ways to have that public discussion in other ways than a big event.
+
+I think these budget tweaks will enable us to have 15 sessions at Emmaus, and also produce an interesting final output.
 
 
 
