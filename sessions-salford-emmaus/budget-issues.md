@@ -4,6 +4,8 @@
 
 Obviously the price of ADA hasn't been doing well since we were first funded and paid in November - the price then was around £1.68, and it's now hovering around 70p.
 
+![](<../.gitbook/assets/ada price.JPG>)
+
 As a new funded proposer, I was a bit green - I left the money in ADA. I wasn't exactly thinking it would go up again (although I thought it might); I just felt like it would be almost "disloyal" to Cardano to take the funding straight out to fiat. Also, I felt a bit unnerved by doing it, especially as I had no information on the tax implications.&#x20;
 
 All of that is still an issue, but I just think I am less scared of it now - but it makes me think proposers do need more advice and support on how to manage funding.
@@ -17,8 +19,6 @@ And although I should probably have managed it differently - I didn't, and I can
 
 So this means the project will have to tighten its belt.
 {% endhint %}
-
-![](<../.gitbook/assets/ada price.JPG>)
 
 My priority is the commitment I made to participants of paying them £20 per session in recognition of their contributions and input. If my own fee has to drop in order to protect that, OK; or if I have to fit the documentation in where I can, rather than allocating paid time for it, then OK.
 
