@@ -16,5 +16,3 @@ description: 'F6: Fund7 challenge setting : Equip the Economically Excluded'
 
 {% embed url="https://github.com/Quality-Assurance-DAO/F6-Fund7-challenge-setting-Equip-the-Economically-Excluded/blob/main/Proposal/F6-Fund7-challenge-setting-Equip-the-Economically-Excluded.md" %}
 
-
-

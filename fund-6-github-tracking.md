@@ -20,5 +20,3 @@ The text of the Fund 6 proposal is stored on a GitHub repository : F6-Scale-UP-C
 
 
 
-
-

@@ -16,7 +16,7 @@ Subsequent emails discussed Project concept and Budget.
 
 ## Comments
 
-![](../../.gitbook/assets/2021-08-24-2-.png)
+![](.gitbook/assets/2021-08-24-2-.png)
 
 #### Discord Context
 
@@ -24,13 +24,13 @@ Subsequent emails discussed Project concept and Budget.
 
 ### Matthias Sieber (@matthiasksieber) kudos icon + 2 days ago
 
-![Matthias Sieber (@matthiasksieber) kudos icon + 2 days ago](../../.gitbook/assets/2021-08-24.png)
+![Matthias Sieber (@matthiasksieber) kudos icon + 2 days ago](.gitbook/assets/2021-08-24.png)
 
 Hi Stephen, I appreciate for all you do and the homeless population is dear to my heart as well. I have been working for the last 14 months with people facing housing insecurities and housing service providers as the lead engineer at a company to assist in bringing people into suitable shared housing. I attend many civic tech conferences and try to learn as much as possible to better serve the ones in need. Once in a while I compile my findings (and critique of existing systems) in a paper - that generally no journal is interested in publishing. With that out of the way - and acknowledging that homelessness in Manchester probably looks different than in Los Angeles - I must ask: What exactly is the outcome going to look like? I understand that a homeless hub as a center to teach each other about blockchain and Cardano is one of the goals, but I am wondering how you would incentivize participation in the first place. Unfortunately I don't have really specific questions to make this proposal stronger, but I support the sentiment of making our Cardano tent bigger.
 
 ### Stephen Response to Matthias&#x20;
 
-![](../../.gitbook/assets/2021-08-24-3-.png)
+![](.gitbook/assets/2021-08-24-3-.png)
 
 Hi Matthias,
 
@@ -56,13 +56,13 @@ All the Best Stephen
 
 ### Richard Nugent (@richardnugent) kudos icon + 17 hours ago
 
-![Richard Nugent (@richardnugent) kudos icon + 17 hours ago](../../.gitbook/assets/2021-08-24-1-.png)
+![Richard Nugent (@richardnugent) kudos icon + 17 hours ago](.gitbook/assets/2021-08-24-1-.png)
 
 Hi This looks like a sound proposal. As I understand it the core goal is communication. This, in and of itself is vital to social cohesion. If we as societies fail to communicate we will continue to fracture more and more. Certainly your project will help decrease fracturing and create homeless to non-homeless communication. This can only be good. In particular if this scheme can help those who are not welcoming to immigrant community members to be more welcoming it will have succeeded. Are you thinking of ideation sessions to address problems of homeless people using Cardano? E.g. A tool to do X using the blockchain which has the \[desired] outcome of Y for homeless people? Is that it? I wish you every success with this proposal.
 
 ### Stephen Response to Richard
 
-![](../../.gitbook/assets/2021-08-24-4-.png)
+![](.gitbook/assets/2021-08-24-4-.png)
 
 You kudos icon + moments ago Idea Submitter
 
@@ -100,7 +100,7 @@ Formally added Vanessa Cardui as co-proposer on Ideascale.
 
 ## Tuesday, August 31st 2021
 
-![](../../.gitbook/assets/2021-08-31-2-.png)
+![](.gitbook/assets/2021-08-31-2-.png)
 
 ### stephen.rowan — Today at 12:03 PM
 
