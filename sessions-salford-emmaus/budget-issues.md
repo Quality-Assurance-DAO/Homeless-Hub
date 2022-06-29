@@ -2,7 +2,7 @@
 
 ### How to manage an ADA budget...
 
-Obviously the price of ADA hasn't been doing well since we were first funded and paid in November - the price then was around £1.68, and it's now hovering around 70p.
+Obviously the price of ADA hasn't been doing well since we were first funded and paid in November - the price then was around £1.68, and it's now hovering around 70p. Less than half.
 
 ![](<../.gitbook/assets/ada price.JPG>)
 
