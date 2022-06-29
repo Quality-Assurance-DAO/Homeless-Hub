@@ -11,7 +11,7 @@
 
 ## Engaging participants: Dec 2021-Feb 2022
 
-* [Approaching organisations](engaging-participants-dec-2021-feb-2022/approaching-organisations.md)
+* [Approaching organisations](engaging-participants-dec-2021-feb-2022/page-1.md)
 
 ## Sessions: Salford Emmaus
 
