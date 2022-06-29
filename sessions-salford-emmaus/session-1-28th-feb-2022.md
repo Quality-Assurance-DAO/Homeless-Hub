@@ -51,12 +51,10 @@ How does society show you that you are/are not valued? When your community value
 **Ideas:** Society shows it values you through wages/money; being heard; being allowed to occupy space, physical or not; the way people look at you; your needs being generally known and understood by society; being credited for what you do.  \
 **AGREE/DISAGREE SLIDERS on what shows us we are valuable:**
 
-****
-
 ### **5) What do you do in your community that is valuable, but not recognised?**&#x20;
 
 Picking up litter; supporting a friend; I always take the bin out; I do not drive or fly, so i make less pollution; being vegan;) How does your community, or your society, record or recognise that contribution – or, does it?
 
-How in general does your Emmaus community record and recognise people’s contribution?
+How in general does your Emmaus community record and recognise people’s contribution? For discussion another time.
 
 &#x20;
