@@ -9,6 +9,10 @@
   * [Fund 6 - GitHub Tracking](fund-6-github-tracking.md)
   * [Fund7 challenge setting : Equip the Economically Excluded](fund7-challenge-setting-equip-the-economically-excluded.md)
 
+## Background thoughts
+
+* [Asset-Based Community Development (ABCD)](background-thoughts/asset-based-community-development-abcd.md)
+
 ## Engaging participants: Dec 2021-Feb 2022
 
 * [Approaching organisations](engaging-participants-dec-2021-feb-2022/page-1.md)
