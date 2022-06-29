@@ -10,9 +10,15 @@ All of that is still an issue, but I just think I am less scared of it now - but
 
 ### Recalibrating...
 
-All that aside - the facts are that Homeless Hub budget is now worth less than it was, and although I should probably have managed it differently, I didn't, and I can't go back and change that.
+{% hint style="warning" %}
+All that aside - the facts are that Homeless Hub funding is now worth less than the project budget.
+
+And although I should probably have managed it differently - I didn't, and I can't go back and change that.
 
 So this means the project will have to tighten its belt.
+{% endhint %}
+
+![](<../.gitbook/assets/ada price.JPG>)
 
 My priority is the commitment I made to participants of paying them £20 per session in recognition of their contributions and input. If my own fee has to drop in order to protect that, OK; or if I have to fit the documentation in where I can, rather than allocating paid time for it, then OK.
 
