@@ -4,7 +4,7 @@
 
 Obviously the price of ADA hasn't been doing well since we were first funded and paid in November - the price then was around £1.68, and it's now hovering around 70p.
 
-As a new funded proposer, I was a bit green - I left the money in ADA. I wasn't exactly thinking it would go up again (although I thought it might); I also felt like it would be almost "disloyal" to Cardano to take the funding straight out to fiat. Also, I felt a bit unnerved by doing it, especially as I had no information on the tax implications.&#x20;
+As a new funded proposer, I was a bit green - I left the money in ADA. I wasn't exactly thinking it would go up again (although I thought it might); I just felt like it would be almost "disloyal" to Cardano to take the funding straight out to fiat. Also, I felt a bit unnerved by doing it, especially as I had no information on the tax implications.&#x20;
 
 All of that is still an issue, but I just think I am less scared of it now - but it makes me think proposers do need more advice and support on how to manage funding.
 
