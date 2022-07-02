@@ -6,11 +6,13 @@
 
 ### MONEY, TOKENS AND CONTROL
 
-Is "value" the same thing as "worth"? We talked last week about how tough times or homelessness can make you value certain objects or things differently. This can lead to the weird sensation that Vanessa has christened **“worth-dissonance**” – **the feeling when you see that society values a thing very differently from how you value it.** So we listed some stuff that we think is way overpriced, or way underpriced, according to our individual sense of value.&#x20;
+Is "value" the same thing as "worth"? We talked last week about how tough times or homelessness can make you value certain objects or things differently. This can lead to the weird sensation that Vanessa has christened **“worth-dissonance**” – **the feeling when you see that society values a thing very differently from how you value it.**&#x20;
+
+So we listed some stuff that we think is way overpriced, or way underpriced, according to our individual sense of value.&#x20;
 
 #### Overpriced
 
-Phone bills; Holidays and city breaks; diamonds; easter eggs; TVs; footie players esp. Man Utd; cut flowers especially on Valentines Day, they exploit the fact that everyone wants roses on that day
+Phone bills; Holidays and city breaks; diamonds; easter eggs; TVs; footie players esp. Man Utd; cut flowers especially on Valentines Day, they exploit people because everyone wants roses on that day
 
 #### Underpriced
 
