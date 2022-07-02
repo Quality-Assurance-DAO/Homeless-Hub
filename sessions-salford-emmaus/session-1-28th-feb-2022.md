@@ -60,4 +60,10 @@ How in general does an Emmaus community record and recognise people’s contribu
 
 For discussion another time.
 
+### 6) It's the little things...
+
+The person who wrote this graffiti just outside Emmaus, and made people smile, added something of value...
+
+![dunno who needs to know this, but if you do, here it is](../.gitbook/assets/IMG\_1169.JPG)
+
 &#x20;
