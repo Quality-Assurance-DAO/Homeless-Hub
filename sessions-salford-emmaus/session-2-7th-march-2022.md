@@ -21,14 +21,15 @@ Love and affection; wages; time!
 #### Then we talked about - if you were going to design a value-system, what would be worth a lot, and what would be worth nothing?
 
 About buying flowers - they're dead in a day. Plastic ones should be better - things that last should be worth more than things that don't. But maybe real things should be worth more than fake ones? So should we value:\
+\
 &#x20;\- time (whether things last)?\
 &#x20;\- authenticity, realness?\
 &#x20;\- popularity?\
 &#x20;\- equality - as in, everybody having a say in what things are worth?\
 &#x20;\- everyone being able to have their own view of what things are worth, and that being reflected in the system?\
-&#x20;\- judgement? expertise? experience? Different kinds of knowledge should be valued\
-&#x20;\- Quality and functionality, not brand - it doesn't matter if something isn't a well-known brand, if it works\
-&#x20;\- STOP CONFORMING!
+&#x20;\- judgement? expertise? experience? Different kinds of knowledge about a thing affect what it's worth to you\
+&#x20;\- quality and functionality, not brand - if something works, it doesn't matter if it isn't a famous brand\
+&#x20;\- STOP CONFORMING! basically.
 
 ### HAVE YOU EVER USED A TOKEN?
 
