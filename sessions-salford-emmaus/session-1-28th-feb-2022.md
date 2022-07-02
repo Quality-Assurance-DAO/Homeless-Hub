@@ -12,19 +12,21 @@ What do homeless people value differently from most people? And ex-homeless peop
 
 What kind of things are worth more when you are homeless than when you’re not; i.e. what has greater value in the economy of the homeless than in the normal economy?&#x20;
 
-I'm calling it “_**worth-dissonance**_” – the feeling when you see the world valuing a thing very differently from how you value it
+I'm calling it “_**worth-dissonance**_” – the feeling when you see the world valuing a thing very differently from how you value it.
+
+![](../.gitbook/assets/IMG\_1173.JPG)
 
 **Value more**
 
-socks; tampax; a phone; privacy of your personal info (because often the price of being helped is that your privacy is not respected much); cats (because it is much harder to have a cat on the street than a dog); quiet; shelving (you don't usually have shelves for your stuff in a hostel); a smile instead of suspicion from a shopkeeper; tobacco (it's a currency); a bath instead of a shower; personal space; having an effect on the world; art materials; community (because you learn on the streets how important it is)
+socks; tampax; a phone; privacy of your personal info (because often the price of being helped is that your privacy is not respected much); cats (because it is much harder to have a cat on the street than a dog); quiet; warmth, shelving (you don't usually have shelves for your stuff in a hostel); a smile instead of suspicion from a shopkeeper; tobacco (it's a currency); a bath instead of a shower; personal space; having an effect on the world; art materials; community (because you learn on the streets how important it is); health.
 
 **Value less**
 
-status/job stuff (because you know it can be taken away and you will still be you); recognition e.g. for your art work; privately owned stuff e.g. a garden; telly; things like gold or diamonds? No, because you know the world values them, even if you don't care.
+status/job stuff (because you know it can be taken away and you will still be you); recognition e.g. for your art work; privately owned stuff e.g. a garden; telly; people's opinions towards me; my opinion towards others; things like gold or diamonds? No, because you know society values them, even if you don't care; £££;&#x20;
 
 **Value different:**
 
-A drink; sex (it can be exchanged for safety or for a bed for the night); certain places, I just saw them differently; having a choice e.g. over what I ate or wore (you eat what there is, and wear what clothes you get given, so preferences become less important, or sort of, more important; you still have preferences but they are in theory only.)
+A drink; sex (it can be exchanged for safety or for a bed for the night); certain places, I just saw them differently; having a choice e.g. over what I ate or wore (you eat what there is, and wear what clothes you get given, so preferences become less important, or sort of, more important; you still have preferences but they are in theory only); pride (you still have it but you are expected not to); society (you are still part of it but you don't always feel it); family; myself.
 
 ### **2) How is value determined in society??**
 
