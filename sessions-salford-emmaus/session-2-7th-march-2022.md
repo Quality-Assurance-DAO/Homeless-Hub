@@ -40,7 +40,7 @@ Tokens are thing that are not money, but function a bit like money - they're a w
 &#x20;\- a present\
 &#x20;\- doing a favour or a job for someone\
 &#x20;\- a token of love (awww)\
-\- arcade token, casino chips\
+&#x20;\- arcade token, casino chips\
 &#x20;\-  cigarettes or tobacco\
 &#x20;\- time spent doing something for someone - time bank\
 &#x20;\- supermarket loyalty cards\
@@ -50,4 +50,4 @@ Tokens are thing that are not money, but function a bit like money - they're a w
 We noted that you can give _**or**_** ** receive a token, so you can sometimes decide what it is worth (receiver usually decides?) And we noted that its value might depend on levels of kindness in the society - if people are generally kind then some of these things are just normal, and don't have an extra value? And it depends on what power we have - if you are powerful, you are the one who decides what it's worth.\
 &#x20;
 
-![](<../.gitbook/assets/Green Shield Stamps.jpg>)
+![](../.gitbook/assets/greenshieldstamps.jpg)
