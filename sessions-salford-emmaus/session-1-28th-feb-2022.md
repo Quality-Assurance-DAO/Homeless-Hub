@@ -26,7 +26,7 @@ status/job stuff (because you know it can be taken away and you will still be yo
 
 **Value different:**
 
-A drink; sex (it can be exchanged for safety or for a bed for the night); certain places, I just saw them differently; having a choice e.g. over what I ate or wore (you eat what there is, and wear what clothes you get given, so preferences become less important, or sort of, more important; you still have preferences but they are in theory only); pride (you still have it but you are expected not to); society (you are still part of it but you don't always feel it); family; myself.
+A drink; sex (it can be exchanged for safety or for a bed for the night); certain places, I just saw them differently; having a choice e.g. over what I ate or wore (you eat what there is, and wear what clothes you get given, so preferences become less important, or sort of, more important; you still have preferences but they are in theory only); pride (you still have it but you are expected not to); society (you are still part of it but you don't always feel it); family; a roof; depression; loneliness; myself.
 
 ### **2) How is value determined in society??**
 
