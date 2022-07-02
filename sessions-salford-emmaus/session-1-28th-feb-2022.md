@@ -55,7 +55,7 @@ How does society show you that you are/are not valued? When your community value
 
 ### **5) What do you do in your community that is valuable, but not recognised?**&#x20;
 
-Unseen work, like picking up litter; supporting a friend; always taking the bin out; making someone a cup of tea; being vegan... How does your community, or your society, record or recognise that contribution – or, does it?\
+Unseen work, like picking up litter; supporting a friend; always taking the bin out; making someone a cup of tea... How does your community, or your society, record or recognise that contribution – or, does it?\
 How in general does an Emmaus community record and recognise people’s contribution?&#x20;
 
 For discussion another time.
