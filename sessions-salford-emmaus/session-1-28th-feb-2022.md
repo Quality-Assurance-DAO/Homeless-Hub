@@ -38,7 +38,7 @@ In other words, what matters is how much you personally need it.
 
 IS THAT WHAT’S GOING ON HERE? or is it about valuing what you can’t have? or things you’ve lived without?
 
-_Value_ and _price_ are different – do we see **our** ideas of value represented in the world? More and more, I realise that different people have different ideas of what is valuable, but only some people’s ideas are represented in the world. We can see what those in power think is valuable everywhere we look.
+_Value_ and _price_ are different – do we see **our** ideas of value represented in the world? Different people have different ideas of what is valuable, but only some people’s ideas are represented in the world. We can see what those in power think is valuable everywhere we look.
 
 ### **3) Mapping**
 
@@ -72,7 +72,19 @@ We're interested to know more - an 8.
 **NFTs** - a couple of us have heard the phrase, but we are all quite confused by it and don't feel like we know what they are. Maybe a 1, or even 0.\
 But we are pretty interested to find out, just out of curiosity. Maybe a 9.
 
-### 6) It's the little things...
+### 6) How would you change the economic system?
+
+We finished up the session with a really wide question: if you could change the economic system in any way you wanted, what would you do? The answers:
+
+&#x20;\- It's all about greed now - I would change that.\
+&#x20;\- I'd change who is in charge. All of us, not just some of us.\
+&#x20;\- I'd change the idea that says "I earn £40k so I am worth more than you as a person".\
+&#x20;\- I'd change it to be more towards people just accepting people.\
+&#x20;\- At the moment it's all about money - and oil and fuel. I'd change that - maybe just to make people aware.\
+&#x20;\- I'd change the idea that you have to do anything to deserve the basics, a roof over your head and enough to eat.\
+
+
+### 7) It's the little things...
 
 While we're talking about value - the person who wrote this graffiti just outside Emmaus, and made people smile, added something of value...
 
