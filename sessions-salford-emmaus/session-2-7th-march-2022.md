@@ -16,7 +16,7 @@ Phone bills; Holidays and city breaks; diamonds; easter eggs; TVs; footie player
 
 #### Underpriced
 
-Love and affection; wages; time !
+Love and affection; wages; time!
 
 #### Then we talked about - if you were going to design a value-system, what would be worth a lot, and what would be worth nothing?
 
