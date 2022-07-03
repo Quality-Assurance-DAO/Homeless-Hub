@@ -2,7 +2,7 @@
 
 ## **PEOPLE**
 
-6 people took part: Barry, Jack, Chris, Joe, Julie, and Vanessa
+**6 people took part:** Barry, Jack, Chris, Joe, Julie, and Vanessa
 
 ## **VALUE**
 

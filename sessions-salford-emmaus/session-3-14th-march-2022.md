@@ -2,7 +2,7 @@
 
 ## **PEOPLE**
 
-8 people took part: Chris, Joe, Jack, Barry, Kev, Julie, Darren and Vanessa
+**8 people took part:** Chris, Joe, Jack, Barry, Kev, Julie, Darren and Vanessa
 
 ### SUM UP YOUR TAKE ON "MONEY" IN A SENTENCE?
 
