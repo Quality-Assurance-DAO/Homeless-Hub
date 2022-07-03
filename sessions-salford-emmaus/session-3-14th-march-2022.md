@@ -24,3 +24,5 @@ We talked a bit about how the metaphor might work for the idea of "proof-of-stak
 #### Proof of Listening?
 
 And how about other proofs of belonging, or deserving something? Could you have proof of community; proof of humanity even? What about proof of lived experience? We agreed that you can still understand something very well (e.g. homelessness) even if you haven't experienced it yourself - but probably your insights and understanding will be from a different perspective than someone who has experienced it. And... maybe your insights should be influenced by the ideas of people who _have_ lived it? What if people who made policy about homelessness had to somehow give proof that they've listened to people who have experienced it? Proof of Listening?
+
+### VALUING THE WORK WE DO
