@@ -59,7 +59,7 @@ We noted that you can give _**or**_** ** receive a token, so you can sometimes d
 We talked about what a blockchain actually is; outlined a few things it can be used for; and talked about the difference between proof of work and proof of stake.
 
 \
-We used this diagram, from Euromoney Learning:
+We used this diagram, from Euromoney Learning: (note: we are nowt to do with them, just found it online and thought it was useful - so credit where due - here's the link [https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain](https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain)
 
 ![](<../.gitbook/assets/DLT from Euromoney Learning 2020.JPG>)
 
