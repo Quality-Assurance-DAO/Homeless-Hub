@@ -20,22 +20,22 @@ Love and affection; wages; time !
 
 #### Then we talked about - if you were going to design a value-system, what would be worth a lot, and what would be worth nothing?
 
-About buying flowers - they're dead in a day. Plastic ones should be better - things that last should be worth more than things that don't. But maybe real things should be worth more than fake ones?&#x20;
+Two opnions about buying flowers - they're dead in a day. plastic ones are better - things that last should be worth more than things that don't. But on the other hand, maybe real things should be worth more than fake ones?&#x20;
 
 So maybe we could have a system that values:\
 \
 &#x20;\- time (whether things last)?\
-&#x20;\- authenticity, realness?\
-&#x20;\- popularity? (though we don't like this much)\
+&#x20;\- realness?\
+&#x20;\- popularity? (though we don't like this idea much - when things are valued just because they are popular, it's a bit shallow)\
 &#x20;\- equality - as in, everybody having a say in what things are worth?\
 &#x20;\- everyone being able to have their own view of what things are worth, and that being reflected in the system?\
 &#x20;\- judgement? expertise? experience? Different kinds of knowledge about a thing affect what it's worth to you\
-&#x20;\- quality and functionality, not brand - if something works, it doesn't matter if it isn't a famous brand\
+&#x20;\- quality and functionality, not brand - if something works, it doesn't matter if it's not a famous brand\
 &#x20;\- STOP CONFORMING! basically.
 
 ### HAVE YOU EVER USED A TOKEN?
 
-Tokens are thing that are not money, but function a bit like money - they're a way to exchange value, so you use them like currency. At first, we thought we hadn't ever used one, but then we realised there are loads:
+Tokens are thing that are not money, but function a bit like money - they're a way to exchange value, so you use them like currency. We realised there are loads:
 
 &#x20;\- sure start/milk tokens\
 &#x20;\- gift cards, book tokens\
