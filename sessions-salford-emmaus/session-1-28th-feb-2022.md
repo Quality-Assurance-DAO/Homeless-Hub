@@ -53,16 +53,28 @@ How does society show you that you are/are not valued? When your community value
 **Ideas:** Society shows it values you through wages/money; being heard; being allowed to occupy space, physical or not; the way people look at you; your needs being generally known and understood by society; being credited for what you do.  \
 **AGREE/DISAGREE SLIDERS on what shows us we are valuable:**
 
-### **5) What do you do in your community that is valuable, but not recognised?**&#x20;
+### **5) What do you know?**
 
-Unseen work, like picking up litter; supporting a friend; always taking the bin out; making someone a cup of tea... How does your community, or your society, record or recognise that contribution – or, does it?\
-How in general does an Emmaus community record and recognise people’s contribution?&#x20;
+We did an exercise to find out our "baseline" - how much do we, as a group, already know about certain things, and how interested are we in knowing more?\
+Below, you can see how it looked on paper - the first line is how much we know, the second is how interested we are.
 
-For discussion another time.
+![](../.gitbook/assets/baseline.JPG)
+
+**Blockchain** - we know a little bit, mostly from what we read in the papers. About a 2 or a 3.\
+We're very interested to learn more: a 10.\
+\
+**Decentralised identity** - we understand a bit about this. We didn't know the term for it, but once it's explained what it is, we get the concept. Probably because as people with experience of homelessness, we know some of the barriers around proving identity without an address. So - about a 5.\
+We're pretty interested to learn more - maybe a 7 or 8
+
+**Littercoin -** this is a Cardano token that is being developed, that Vanessa is aware of - they would be able to talk to the group about what tokens are. Vanessa explained it a bit, so as a group we know something about it now - maybe a 7\
+We're interested to know more - an 8.
+
+**NFTs** - a couple of us have heard the phrase, but we are all quite confused by it and don't feel like we know what they are. Maybe a 1, or even 0.\
+But we are pretty interested to find out, just out of curiosity. Maybe a 9.
 
 ### 6) It's the little things...
 
-The person who wrote this graffiti just outside Emmaus, and made people smile, added something of value...
+While we're talking about value - the person who wrote this graffiti just outside Emmaus, and made people smile, added something of value...
 
 ![dunno who needs to know this, but if you do, here it is](../.gitbook/assets/IMG\_1169.JPG)
 
