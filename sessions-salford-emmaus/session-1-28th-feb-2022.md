@@ -81,12 +81,11 @@ We finished up the session with a really wide question: if you could change the 
 &#x20;\- I'd change the idea that says "I earn £40k so I am worth more than you as a person".\
 &#x20;\- I'd change it to be more towards people just accepting people.\
 &#x20;\- At the moment it's all about money - and oil and fuel. I'd change that - maybe just to make people aware.\
-&#x20;\- I'd change the idea that you have to do anything to deserve the basics, a roof over your head and enough to eat.\
-
+&#x20;\- I'd change the idea that you have to do anything to deserve the basics, a roof over your head and enough to eat.
 
 ### 7) It's the little things...
 
-While we're talking about value - the person who wrote this graffiti just outside Emmaus, and made people smile, added something of value...
+A post-script from Vanessa - after the session, walking back, I saw this graffiti just outside Emmaus. It made me smile - but after the discussions we've just had, I started thinking how that's adding value, but the writer has gone completely unrewarded, and probably some people would call it "vandalism" or something...
 
 ![dunno who needs to know this, but if you do, here it is](../.gitbook/assets/IMG\_1169.JPG)
 
