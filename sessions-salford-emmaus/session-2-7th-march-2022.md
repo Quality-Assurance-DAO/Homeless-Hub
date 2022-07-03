@@ -16,7 +16,7 @@ Phone bills; Holidays and city breaks; diamonds; easter eggs; TVs; footie player
 
 #### Underpriced
 
-Love and affection; wages; time!
+Love and affection; wages; time !
 
 #### Then we talked about - if you were going to design a value-system, what would be worth a lot, and what would be worth nothing?
 
@@ -51,3 +51,23 @@ We noted that you can give _**or**_** ** receive a token, so you can sometimes d
 &#x20;
 
 ![](../.gitbook/assets/greenshieldstamps.jpg)
+
+### INTRO TO DISTRIBUTED LEDGER TECHNOLOGY
+
+We talked about what a blockchain actually is; outlined a few things it can be used for; and talked about the difference between proof of work and proof of stake.
+
+\
+We used this diagram, from Euromoney Learning:
+
+![](<../.gitbook/assets/DLT from Euromoney Learning 2020.JPG>)
+
+**One comment:**\
+"So proof of work - is that like when you go to sign on, and the Government wants you to prove that you haven't done any work since you last claimed?"\
+\
+The immediate answer is "No it's not that", but on reflection... In our society, people who are unemployed are pretty excluded and vilified. Proving that you do work is almost proving your right to be considered part of society at all... (and in a POW blockchain, proving work gives you a right to be included).&#x20;
+
+So it isn't the same, but it's kind of a metaphor.
+
+We talked a bit about how the metaphor might work for the idea of "proof-of-stake". What do people do to prove they have a stake in society? We noticed that the wealthy are rarely asked to prove it, even though often, they couldn't care less about society and don't act like they have a stake in it; but the less-wealthy often have to prove they are decent, not scammy, not criminal, etc.
+
+And how about other proofs of belonging, or deserving something? Could you have proof of community; proof of humanity even? What about proof of lived experience?
