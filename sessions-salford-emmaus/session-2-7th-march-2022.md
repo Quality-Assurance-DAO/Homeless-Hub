@@ -20,7 +20,9 @@ Love and affection; wages; time !
 
 #### Then we talked about - if you were going to design a value-system, what would be worth a lot, and what would be worth nothing?
 
-About buying flowers - they're dead in a day. Plastic ones should be better - things that last should be worth more than things that don't. But maybe real things should be worth more than fake ones? So should we value:\
+About buying flowers - they're dead in a day. Plastic ones should be better - things that last should be worth more than things that don't. But maybe real things should be worth more than fake ones?&#x20;
+
+So maybe we could have a system that values:\
 \
 &#x20;\- time (whether things last)?\
 &#x20;\- authenticity, realness?\
