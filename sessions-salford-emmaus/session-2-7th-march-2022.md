@@ -2,7 +2,7 @@
 
 ## **PEOPLE**
 
-9 people took part: Julie, Joe, Kev, Jack, Chris, Mark, Ian, Darren, and Vanessa.
+**9 people took part:** Julie, Joe, Kev, Jack, Chris, Mark, Ian, Darren, and Vanessa.
 
 ### MONEY, TOKENS AND CONTROL
 
@@ -26,7 +26,7 @@ So maybe we could have a system that values:\
 \
 &#x20;\- time (whether things last)?\
 &#x20;\- authenticity, realness?\
-&#x20;\- popularity?\
+&#x20;\- popularity? (though we don't like this much)\
 &#x20;\- equality - as in, everybody having a say in what things are worth?\
 &#x20;\- everyone being able to have their own view of what things are worth, and that being reflected in the system?\
 &#x20;\- judgement? expertise? experience? Different kinds of knowledge about a thing affect what it's worth to you\
