@@ -6,6 +6,8 @@
 
 ### SUM UP YOUR TAKE ON "MONEY" IN A SENTENCE?
 
+As a warmup game, we each wrote on a post-it note a sentence or two to sum up our personal attitude to money. We got:
+
 ### A TIME WHEN YOU FELT IN CONTROL FINANCIALLY?
 
 ### PROOF OF..?
