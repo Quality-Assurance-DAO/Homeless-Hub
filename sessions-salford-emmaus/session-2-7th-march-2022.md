@@ -4,7 +4,7 @@
 
 **9 people took part:** Julie, Joe, Kev, Jack, Chris, Mark, Ian, Darren, and Vanessa.
 
-### MONEY, TOKENS AND CONTROL
+### **1)** MONEY, TOKENS AND CONTROL
 
 Is "value" the same thing as "worth"? We talked last week about how tough times or homelessness can make you value certain objects or things differently. This can lead to the weird sensation that Vanessa has christened **“worth-dissonance**” – **the feeling when you see that society values a thing very differently from how you value it.**&#x20;
 
@@ -33,7 +33,7 @@ So maybe we could have a system that values:\
 &#x20;\- quality and functionality, not brand - if something works, it doesn't matter if it's not a famous brand\
 &#x20;\- STOP CONFORMING! basically.
 
-### HAVE YOU EVER USED A TOKEN?
+### 2) HAVE YOU EVER USED A TOKEN?
 
 Tokens are thing that are not money, but function a bit like money - they're a way to exchange value, so you use them like currency. We realised there are loads:
 
@@ -54,7 +54,26 @@ We noted that you can give _**or**_** ** receive a token, so you can sometimes d
 
 ![](../.gitbook/assets/greenshieldstamps.jpg)
 
-### INTRO TO DISTRIBUTED LEDGER TECHNOLOGY
+### **3) WHAT DO YOU KNOW?**
+
+We did an exercise to find out our "baseline" - how much do we, as a group, already know about certain things, and how interested are we in knowing more?\
+Below, you can see how it looked on paper - the first line is how much we know, the second is how interested we are.
+
+![](../.gitbook/assets/baseline.JPG)
+
+**Blockchain** - we know a little bit, mostly from what we read in the papers. About a 2 or a 3.\
+We're very interested to learn more: a 10.\
+\
+**Decentralised identity** - we understand a bit about this. We didn't know the term for it, but once it's explained what it is, we get the concept. Probably because as people with experience of homelessness, we know some of the barriers around proving identity without an address. So - about a 5.\
+We're pretty interested to learn more - maybe a 7 or 8
+
+**Littercoin -** this is a Cardano token that is being developed, that Vanessa is aware of - they would be able to talk to the group about what tokens are. Vanessa explained it a bit, so as a group we know something about it now - maybe a 7\
+We're interested to know more - an 8.
+
+**NFTs** - a couple of us have heard the phrase, but we are all quite confused by it and don't feel like we know what they are. Maybe a 1, or even 0.\
+But we are pretty interested to find out, just out of curiosity. Maybe a 9.
+
+### 4) INTRO TO DISTRIBUTED LEDGER TECHNOLOGY
 
 We talked about what a blockchain actually is; outlined a few things it can be used for; and talked briefly about the difference between proof of work and proof of stake. More on this next week.
 

@@ -53,26 +53,7 @@ How does society show you that you are/are not valued? When your community value
 **Ideas:** Society shows it values you through wages/money; being heard; being allowed to occupy space, physical or not; the way people look at you; your needs being generally known and understood by society; being credited for what you do.  \
 **AGREE/DISAGREE SLIDERS on what shows us we are valuable:**
 
-### **5) What do you know?**
-
-We did an exercise to find out our "baseline" - how much do we, as a group, already know about certain things, and how interested are we in knowing more?\
-Below, you can see how it looked on paper - the first line is how much we know, the second is how interested we are.
-
-![](../.gitbook/assets/baseline.JPG)
-
-**Blockchain** - we know a little bit, mostly from what we read in the papers. About a 2 or a 3.\
-We're very interested to learn more: a 10.\
-\
-**Decentralised identity** - we understand a bit about this. We didn't know the term for it, but once it's explained what it is, we get the concept. Probably because as people with experience of homelessness, we know some of the barriers around proving identity without an address. So - about a 5.\
-We're pretty interested to learn more - maybe a 7 or 8
-
-**Littercoin -** this is a Cardano token that is being developed, that Vanessa is aware of - they would be able to talk to the group about what tokens are. Vanessa explained it a bit, so as a group we know something about it now - maybe a 7\
-We're interested to know more - an 8.
-
-**NFTs** - a couple of us have heard the phrase, but we are all quite confused by it and don't feel like we know what they are. Maybe a 1, or even 0.\
-But we are pretty interested to find out, just out of curiosity. Maybe a 9.
-
-### 6) How would you change the economic system?
+### 5) How would you change the economic system?
 
 We finished up the session with a really wide question: if you could change the economic system in any way you wanted, what would you do? The answers:
 
@@ -83,7 +64,7 @@ We finished up the session with a really wide question: if you could change the 
 &#x20;\- At the moment it's all about money - and oil and fuel. I'd change that - maybe just to make people aware.\
 &#x20;\- I'd change the idea that you have to do anything to deserve the basics, a roof over your head and enough to eat.
 
-### 7) It's the little things...
+### 6) It's the little things...
 
 A post-script from Vanessa - after the session, walking back, I saw this graffiti just outside Emmaus. It made me smile - but after the discussions we've just had, I started thinking how that's adding value, but the writer has gone completely unrewarded, and probably some people would call it "vandalism" or something...
 
