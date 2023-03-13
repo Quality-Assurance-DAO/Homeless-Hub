@@ -51,7 +51,16 @@ The things we said we value more cos of homelessness – pick one of them, and l
 How does society show you that you are/are not valued? When your community values you, how is that demonstrated?&#x20;
 
 **Ideas:** Society shows it values you through wages/money; being heard; being allowed to occupy space, physical or not; the way people look at you; your needs being generally known and understood by society; being credited for what you do.  \
-**AGREE/DISAGREE SLIDERS on what shows us we are valuable:**
+**We drew some AGREE/DISAGREE SLIDERS on what shows us we are valuable:**
+
+<figure><img src="../.gitbook/assets/being valued sliders.JPG" alt=""><figcaption><p>our "what makes you feel valued?" sliders</p></figcaption></figure>
+
+**Being paid** - yes, very important in showing us we are valued. A 9, if we had to score it\
+**Being heard** - medium importance - maybe a 5. We're quite used to not being heard, and most people go unheard; but we said being able to be heard is a form of freedom.\
+**Being allowed to take up space** - yes, pretty important, maybe 8.5. We talked about hostile architacture and how homeless people are often pushed out of public space; and we talked about Gypsies and Travellers and how they are often not allowed to take up space, which makes Traveller people feel un-valued.\
+**Getting credit and recognition (not money) for what you do** - very important, a 9. We said it's a form of payment, so it's the same as being paid money in terms of how valued it makes us feel.\
+**Society's views on disability** - we said that if society viewed disabled people in a better light, this would have a big effect on how valued we feel. Maybe an 8 in terms of how big a difference it would make. We mentioned how a lot of disabilities are hidden - so the lack of respect affects those of us with a hidden disability, even if others don't realise it is doing so.\
+**Equality/diversity** - if the world was less prejudiced, the effect on how valued people would feel would be off the scale! Like 20 out of 10.
 
 ### 5) How would you change the economic system?
 
