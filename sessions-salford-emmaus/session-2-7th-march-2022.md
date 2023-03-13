@@ -27,9 +27,9 @@ So maybe we could have a system that values:\
 &#x20;\- time (whether things last)?\
 &#x20;\- realness?\
 &#x20;\- popularity? (though we don't like this idea much - when things are valued just because they are popular, it's a bit shallow)\
-&#x20;\- equality - as in, everybody having a say in what things are worth?\
-&#x20;\- everyone being able to have their own view of what things are worth, and that being reflected in the system?\
-&#x20;\- judgement? expertise? experience? Different kinds of knowledge about a thing affect what it's worth to you\
+&#x20;\- equality - as in, everybody having a say in what things are worth? Or maybe, as in Everybody is actually just valued the same, let's stop drawing distinctions and making one person or thing officially "better" than another. People will have their preferences and that's fine, but one person's or one group's preferences shouldn't form an actual value system for everyone.\
+&#x20;\- so, everyone being able to have their own view of what things are worth, and that being reflected in the system?\
+&#x20;\- judgement? expertise? experience? Different kinds of knowledge about a thing affect what it's worth to you - like if you know its back-story, or you know how to use it, etc\
 &#x20;\- quality and functionality, not brand - if something works, it doesn't matter if it's not a famous brand\
 &#x20;\- STOP CONFORMING! basically.
 
@@ -49,10 +49,12 @@ Tokens are thing that are not money, but function a bit like money - they're a w
 &#x20;\- green shield stamps\
 &#x20;\- bartering and swapping generally - sweeties when you're a kid
 
-We noted that you can give _**or**_** ** receive a token, so you can sometimes decide what it is worth (receiver usually decides?) And we noted that its value might depend on levels of kindness in the society - if people are generally kind then some of these things are just normal, and don't have an extra value? And it depends on what power we have - if you are powerful, you are the one who decides what it's worth.\
+We noted that you can give _**or**_** ** receive a token, so you can sometimes decide what it is worth (receiver usually decides? We weren't totally sure on that - if the giver has the most power in the transaction, then they decide...) And we noted that its value might depend on levels of kindness in the society - if people are generally kind then some of these things are just normal, and don't have an extra value? And it depends on what power we have - if you are powerful, you are the one who decides what it's worth. \
+\
+We also raised the issue that maybe we don't always _**want**_ to reduce these things to a specific value. If you do somebody a kindness, but you're thinking "What is this worth?" then it skews it, or even spoils it.\
 &#x20;
 
-![](../.gitbook/assets/greenshieldstamps.jpg)
+![Green Shield stamps - a token that some of us remember from childhood](../.gitbook/assets/greenshieldstamps.jpg)
 
 ### **3) WHAT DO YOU KNOW?**
 
