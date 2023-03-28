@@ -86,8 +86,6 @@ Take a £20 note, and draw it. You can choose whether to try and be accurate, or
 
 </div>
 
-<figure><img src="../.gitbook/assets/clown 20.JPG" alt=""><figcaption></figcaption></figure>
-
 **FUNGIBILITY, COPYING, VALUE**
 
 These drawing games led us into a conversation about some of the ideas behind NFTs.\
@@ -99,6 +97,8 @@ We looked at what relation "fungibility" and "non-fungibility"  might have to va
 ... and we thought about what our "non-fungibility" as humans might say about our value.&#x20;
 
 > _**"When someone doesn't value you, they're seeing you as being the same as every other person in your group - say, every other homeless person. They're seeing you as fungible."**_
+
+<figure><img src="../.gitbook/assets/clown 20.JPG" alt=""><figcaption></figcaption></figure>
 
 _****_
 
