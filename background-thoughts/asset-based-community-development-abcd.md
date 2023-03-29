@@ -4,7 +4,7 @@ In this project, we specifically wanted to focus from the start on an asset-base
 
 Sometimes asset-based approaches get criticised cos people say they can obscure the very real barriers that people face, in favour of suggesting it’s all sunshine, rainbows and hard-won assets of knowledge and strength and lived experience. We get that – but we don’t think ABCD (Asset-Based Community Development) has to be that way. Maybe it’s about who is in control of the reframing.
 
-<figure><img src="../.gitbook/assets/Beggars Investors 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Beggars Investors 2.jpg" alt=""><figcaption><p>inspired by the Twitter account  @OnPlumbing1 (If Plumbers Spoke Like Writers)</p></figcaption></figure>
 
 So in this project we didn’t want to completely reframe lived experience of homelessness as simply “an asset” – it’s more complex than that. But we did want to make space for recognising the assets that are there; especially in a project that’s all about assets, what has value, what we can draw on
 
