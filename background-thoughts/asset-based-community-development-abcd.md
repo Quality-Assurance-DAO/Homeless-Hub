@@ -6,9 +6,11 @@ Sometimes asset-based approaches get criticised cos people say they can obscure 
 
 <figure><img src="../.gitbook/assets/Beggars Investors 2.jpg" alt=""><figcaption><p>inspired by the Twitter account  @OnPlumbing1 (If Plumbers Spoke Like Writers)</p></figcaption></figure>
 
-So in this project we didn’t want to completely reframe lived experience of homelessness as simply “an asset” – it’s more complex than that. But we did want to make space for recognising the assets that are there; especially in a project that’s all about assets, what has value, what we can draw on
+So in this project we didn’t want to completely reframe lived experience of homelessness as simply “an asset” – it’s more complex than that. But we did want to make space for recognising the assets that _**are**_ there; especially in a project that’s all about assets, what has value, who decides what has worth.
 
-During the project the group said, at various points, that homelessness gives us an insight into some of the issues around wealth. It gives us a resourcefulness around money – being homeless is really hard work, and you need to be really resourceful – and it gives us a sense of the value of decentralised community, mutual aid, and not relying on leaders but on all of us together. Like they used to say: no justice – just us. And in particular, homelessness gives us an understanding that wealth is often a flash in the pan, and cannot be relied upon - it can just disappear, so your wealth is something that it’s unwise to base your identity on. This is where the main message of our final art piece (“Don’t count your chickens: homelessness can happen to anyone”)  comes from.
+During the project the group said, at various points, that homelessness gives us an insight into some of the issues around wealth. It gives us a resourcefulness around money – being homeless is really hard work, and you need to be really resourceful – and it gives us a sense of the value of decentralised community, mutual aid, and not relying on leaders but on all of us together. Like we used to say back in the day, before it got hijacked by all and sundry: _no justice – just us_.&#x20;
+
+And in particular, homelessness gives us an understanding that wealth is often a flash in the pan, and cannot be relied upon - it can just disappear. So your wealth is something that it’s unwise to base your identity on. This is where the main message of our final art piece (“[_<mark style="color:orange;">Don’t count your chickens: homelessness can happen to anyone</mark>_](https://chickencount.wordpress.com/)”)  comes from.
 
 <figure><img src="../.gitbook/assets/foolsgold.jpg" alt=""><figcaption><p>poem by Roger, too many years ago</p></figcaption></figure>
 
